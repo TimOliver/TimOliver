@@ -4,13 +4,13 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/timoliverau/">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/linkedin.png" height="20" alt="LinkedIn" style="padding-right: 10px" /></a>
+<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/linkedin.png" height="23" alt="LinkedIn" style="padding-right: 10px" /></a>
 <a href="https://www.twitter.com/TimOliverAU">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/twitter.png" height="20" alt="Twitter" /></a>
+<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/twitter.png" height="23" alt="Twitter" /></a>
 <a href="https://www.instagram.com/timoliver">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/instagram.png" height="20" alt="Instagram" /></a>
+<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/instagram.png" height="23" alt="Instagram" /></a>
 <a href="https://www.youtube.com/timXD">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/youtube.png" height="20" alt="YouTube" /></a>
+<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/youtube.png" height="23" alt="YouTube" /></a>
 <a href="https://www.youtube.com/timXD">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/twitch.png" height="20" alt="Twitch" /></a>
+<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/social/twitch.png" height="23" alt="Twitch" /></a>
 </p>
