@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
-Nice to meet you! I'm a software developer, originally from Perth, Australia, but presently based in Tokyo, Japan. I love writing code for Apple's platforms, with my main passion being writing highly-performant, pixel perfect user interfaces. Previously, I worked as an iOS software engineer at [Mercari](https://mercari.jp) and as a Cocoa product engineer/evangelist at [Realm](https://realm.io). 👨🏼‍💻
+Nice to meet you! I'm a software developer, originally from Perth, Australia, but presently based in Tokyo, Japan. I love writing code for Apple's platforms, with my main passion being writing highly-performant, pixel perfect user interfaces. Previously, I worked as an iOS engineering tech lead at [Mercari](https://mercari.jp) and as a Cocoa product engineer/evangelist at [Realm](https://realm.io). 👨🏼‍💻
 
 In my free time, I love to work on my comic reader app [iComics](http://icomics.co) where I'm currently starting a complete rewrite in Swift. Besides that, I love playing video games (Splatoon 2 and Destiny 2 are my current jams!), and being in Japan, I love singing karaoke. 🎉
 
