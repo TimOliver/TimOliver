@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23bc2a8d" alt="Instagram" /></a> 
 <a href="https://www.youtube.com/timXD">
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
-<a href="https://www.youtube.com/timXD">
+<a href="https://www.twitch.tv/timXD">
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
