@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/timoliverau/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230073f4" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.dribbble.com/timoliver">
 <img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a> 
 <a href="https://www.twitter.com/TimOliverAU">
