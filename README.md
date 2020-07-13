@@ -2,24 +2,11 @@
 <img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/header.png" alt="G'day! I'm Tim!" />
 </p>
 
-I'm a software developer, originally from Perth, Australia, but presently based in Tokyo, Japan. I love writing code for Apple's platforms, with my main passion being writing highly-performant, pixel perfect user interfaces.
+I'm a software developer, originally from Perth, Australia, but presently based in Tokyo, Japan. I love writing code for Apple's platforms, with my main passion being writing highly-performant, pixel perfect user interfaces. Previously, I worked at [Mercari](https://mercari.jp) and [Realm](https://realm.io). 👨🏼‍💻
 
-I also love participating in the worldwide Apple developers community and have presented at, and help host a variety of conferences and meetups around the world.
+In my free time, I love to work on my comic reader app [iComics](http://icomics.co) and I'm currently starting a complete rewrite in Swift. Besides that, I love playing video games (Splatoon 2 and Destiny 2 are my current picks), and living in Japan, I love singing karaoke. 🎉
 
-On my GitHub account, I've published a variety of iOS component libraries and other general iOS/macOS utilities. I love open source on GitHub as it enables all developers to benefit from each others' work, letting us all create better things faster.
-
-## Work
-
-I've worked as an iOS software engineer full-time since 2013. My more recent roles were:
-
-* [Mercari](https://mercari.jp) - I was a tech lead for 3 feature teams on the company's flagship iOS product. I was also a communications lead, helping to facilitate team building between the Japanese and Western employees whenever language barriers arose.
-* [Realm](https://realm.io) - I was a Product Engineer for Realm's Cocoa product. I helped add features to Realm itself, produced a variety of auxiliary libraries, and helped evangelise the product at a variety of events.
-
-## Values
-
-* Give more than you take.
-* Share knowledge. No two minds have the same contents.
-* Treat others how you wish to be treated.
+Nice to meet you! 😁
 
 <p align="center">
 <a href="https://www.linkedin.com/in/timoliverau/">
