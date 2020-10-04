@@ -20,9 +20,10 @@
 </p>
 
 * 📱 Software engineer specializing in iPhone and Mac.
-* 🇦🇺 From Perth, AU, but presently living in Tokyo, JP. 
-* 💻 Loves publishing open source software on GitHub. 😁
 * 🚗 Currently at [Drivemode](https://github.com/drivemode), previously at [Realm](https://github.com/realm).
-* 🎮 Loves playing Destiny 2 and Splatoon 2.
+* 💥 Making a comic reader app called [iComics](https://icomics.co).
+* 💻 Loves publishing open source software on GitHub. 😁
+* 🇦🇺 From Perth, AU, but presently living in Tokyo, JP. 
+* 🎮 Loves playing [Destiny 2](https://bungie.net) and [Splatoon 2](https://www.nintendo.com/games/detail/splatoon-2-switch/).
 * 🎤 Also loves singing and karaoke.
-* 👋 Nice to meet you!
+* 👋 Nice to meet you! 😊
