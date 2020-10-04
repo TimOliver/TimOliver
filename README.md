@@ -19,10 +19,10 @@
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
-* 📱 Software engineer specializing in apps for iPhone and Mac.
-* 🇦🇺 Originally from Perth, Australia, but presently living in Tokyo, Japan. 
+* 📱 Software engineer specializing in iPhone and Mac.
+* 🇦🇺 From Perth, Australia, but presently living in Tokyo, Japan. 
 * 💻 Loves publishing open source software on GitHub. 😁
-* 🚗 Currently working at [Drivemode](/drivemode), previously at [Realm](/realm).
+* 🚗 Currently at [Drivemode](/drivemode), previously at [Realm](/realm).
 * 🎮 Loves playing Destiny 2 and Splatoon 2.
 * 🎤 Also loves singing and karaoke.
 * 👋 Nice to meet you!
