@@ -20,7 +20,7 @@
 </p>
 
 * 📱 Software engineer specializing in iPhone and Mac.
-* 🇦🇺 From Perth, Australia, but presently living in Tokyo, Japan. 
+* 🇦🇺 From Perth, AU, but presently living in Tokyo, JP. 
 * 💻 Loves publishing open source software on GitHub. 😁
 * 🚗 Currently at [Drivemode](https://github.com/drivemode), previously at [Realm](https://github.com/realm).
 * 🎮 Loves playing Destiny 2 and Splatoon 2.
