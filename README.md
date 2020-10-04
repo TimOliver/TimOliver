@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/TimOliver/TimOliver/master/header.png" alt="G'day! I'm Tim!" />
+<img src="https://github.com/TimOliver/TimOliver/raw/dual-column/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
-<p align="center">
+# G'day! I'm Tim. 😃
+
+<p align="left">
 <a href="https://www.linkedin.com/in/timoliverau/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.dribbble.com/timoliver">
@@ -17,8 +19,10 @@
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
-Nice to meet you! I'm a software developer, originally from Perth, Australia, but presently based in Tokyo, Japan. I love writing code for Apple's platforms, with my main passion being writing highly-performant, pixel perfect user interfaces. Previously, I've worked as an iOS engineering tech lead at [Mercari](https://mercari.jp) and as a Cocoa product engineer/evangelist at [Realm](https://realm.io). 👨🏼‍💻
-
-In my free time, I love to work on my comic reader app [iComics](http://icomics.co) where I'm currently starting a complete rewrite in Swift. Besides that, I love playing video games (Splatoon 2 and Destiny 2 are my current jams!), and being in Japan, I love singing karaoke. 🎉
-
-
+* 📱 Software engineer specializing in apps for iPhone and Mac.
+* 🇦🇺 Originally from Perth, Australia, but presently living in Tokyo, Japan. 
+* 💻 Loves publishing open source software on GitHub. 😁
+* 🚗 Currently working at [Drivemode](/drivemode), previously at [Realm](/realm).
+* 🎮 Loves playing Destiny 2 and Splatoon 2.
+* 🎤 Also loves singing and karaoke.
+* 👋 Nice to meet you!
