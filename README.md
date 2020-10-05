@@ -19,11 +19,18 @@
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
-📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).  <br/>
-🚗 Currently at [Drivemode](https://github.com/drivemode), previously at [Realm](https://github.com/realm).  <br/>
-💥 Making a comic reader app for iOS called [iComics](https://icomics.co).  <br/>
-💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories).  <br/>
-🇦🇺 From [Perth, AU](https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html). 🇯🇵 <br/>
-🎮 Loves playing [Destiny 2](https://bungie.net) and [Splatoon 2](https://www.nintendo.com/games/detail/splatoon-2-switch/).  <br/>
-🎤 Also loves singing and karaoke. <br/>
+📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
+
+🚗 Currently at [Drivemode](https://github.com/drivemode), previously at [Realm](https://github.com/realm).
+
+💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
+
+💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories).
+
+🇦🇺 From [Perth, AU](https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
+
+🎮 Loves playing [Destiny 2](https://bungie.net) and [Splatoon 2](https://www.nintendo.com/games/detail/splatoon-2-switch/).
+
+🎤 Also loves singing and karaoke.
+
 😁 Nice to meet you!
