@@ -5,7 +5,7 @@
 # G'day! I'm Tim. 😃
 
 <p align="left">
-<a href="https://www.linkedin.com/in/timoliverau/">
+<a href="https://www.linkedin.com/in/timoliver-au/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.dribbble.com/timoliver">
 <img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a> 
