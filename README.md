@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
 <a href="https://www.instagram.com/timoliver">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-<a href="https://www.twitch.tv/timXD">
-<img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
+<a href="https://stackoverflow.com/users/599344/tim">
+<img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
