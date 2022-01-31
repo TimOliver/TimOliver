@@ -20,7 +20,7 @@
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
-* 🏖 Currently on hiatus, previously at [Drivemode](https://github.com/drivemode) & [Realm](https://github.com/realm).
+* 🏖 Currently on hiatus, previously at [Drivemode](https://github.com/drivemode) and [Realm](https://github.com/realm).
 * 💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
 * 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
 * 🇦🇺 From [Perth, AU](https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
