@@ -24,6 +24,6 @@
 * 💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
 * 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
 * 🇦🇺 From [Perth, AU](https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
-* 🎮 Loves playing [Destiny 2](https://bungie.net) & [Splatoon 2](https://www.nintendo.com/games/detail/splatoon-2-switch/).
+* 🎮 Loves playing [Beyond All Reason](https://www.beyondallreason.info/) & [Splatoon 3](https://splatoon.nintendo.com/).
 * 🎤 Also loves singing and karaoke.
 * 😁 Nice to meet you!
