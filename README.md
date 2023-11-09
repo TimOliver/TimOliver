@@ -2,7 +2,7 @@
 <img src="https://github.com/TimOliver/TimOliver/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
-# G'day! I'm Tim. 😃
+<h1><a href="#">&#x200B;</a>G'day! I'm Tim. 😃</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/timoliver-au/">
