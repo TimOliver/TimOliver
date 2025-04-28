@@ -1,27 +1,30 @@
-<p align="center">
 <img src="https://github.com/TimOliver/TimOliver/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
-</p>
 
-<h1><a href="#">&#x200B;</a>G'day! I'm Tim. 😃</h1>
+<div id="user-content-toc" align="left">
+  <ul>
+  <summary><h1>G'day! I'm Tim. 😃</h1></summary>
+  </ul>
+</div>
 
-<p align="left">
+<div>
 <a href="https://www.linkedin.com/in/timoliver-au/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.dribbble.com/timoliver">
-<img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a> 
+<a href="https://www.twitch.com/timXD">
+<img src="https://img.shields.io/badge/-Twitch-%23BF40BF" alt="Twitch"/></a> 
 <a href="https://www.threads.net/@timoliver">
-<img src="https://img.shields.io/badge/-Threads-%237638FA" alt="Threads" /></a> 
+<img src="https://img.shields.io/badge/-Threads-%23444" alt="Threads" /></a> 
 <a href="https://www.youtube.com/timXD">
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
 <a href="https://www.instagram.com/timoliver">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 <a href="https://stackoverflow.com/users/599344/tim">
 <img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
-</p>
+</div>
+<br/>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) & [macOS](https://www.apple.com/macos/).
-* 📸 Currently at [Instagram](https://github.com/instagram) (prev. [Drivemode](https://github.com/drivemode) & [Realm](https://github.com/realm)).
-* 💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
+* 📸 Currently at [Meta](https://meta.com), building [Instagram](https://instagram.com) and [Threads](https://threads.com) for iOS.
+* 💥 Building a comic reader app for iOS called [iComics](https://icomics.co).
 * 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
 * 🇦🇺 From [Perth, AU](https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
 * 🎮 Loves playing [Deep Rock Galactic](https://www.deeprockgalactic.com) & [Star Citizen](https://robertsspaceindustries.com).
