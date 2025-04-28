@@ -25,7 +25,7 @@
 <br/>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) & [macOS](https://www.apple.com/macos/).
-* 📸 Currently at [Meta](https://meta.com), building [Instagram](https://instagram.com) and [Threads](https://threads.com) for iOS.
+* 📸 Currently at [Meta](https://meta.com), building [Instagram](https://instagram.com) and [Threads](https://threads.com).
 * 💥 Building a comic reader app for iOS called [iComics](https://icomics.co).
 * 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
 * 🇦🇺 From [Perth, AU](https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
