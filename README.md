@@ -1,8 +1,10 @@
 <img src="https://github.com/TimOliver/TimOliver/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
 
-<div id="user-content-toc" align="left">
-  <ul>
-  <summary><h1>G'day! I'm Tim. 😃</h1></summary>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>G'day! I'm Tim. 😃</h1>
+    </summary>
   </ul>
 </div>
 
