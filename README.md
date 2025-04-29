@@ -22,11 +22,11 @@
 
 <br>
 <li>📱 Software engineer specializing in <a href="https://www.apple.com/ios/">iOS</a> & <a href="https://www.apple.com/macos/">macOS</a>.</li>
-<li> 📸 Currently working at <a href="https://meta.com">Meta</a>, building Instagram and Threads.</li>
+<li>📸 Currently building <a href="https://instagram.com">Instagram</a> and <a href="https://threads.com">Threads</a>, at <a href="https://meta.com">Meta</a>.</li>
 <li>💥 Building a comic reader app for iOS called <a href="https://icomics.co">iComics</a>.</li>
 <li>💻 Loves publishing <a href="https://github.com/TimOliver?tab=repositories&type=source">open source software on GitHub</a>.</li>
 <li>🇦🇺 From <a href="https://www.australia.com/en/places/perth-and-surrounds/guide-to-perth.html">Perth, AU</a>, but presently living in <a href="https://www.gotokyo.org/en/index.html">Tokyo, JP</a>.</li>
-<li>🎮 Currently playing Star Citizen and Breath of the Wild.</li>
+<li>🎮 Currently playing <a href="https://robertsspaceindustries.com/en/star-citizen/">Star Citizen</a> and <a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild">Breath of the Wild</a>.</li>
 <li>🎙️ Also loves singing and karaoke.</li>
 <li>😁 Nice to meet you!</li>
   </ul>
